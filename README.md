@@ -1,3 +1,3 @@
-# Safari Readability
+# Readability
 
-Safari Reader Mode JavaScript (iOS 17.2)
+Safari Reader Mode Source Code (JavaScript, iOS 17.2)
